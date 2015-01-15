@@ -8,8 +8,6 @@ Typical usage scenario:
     init project
 $ blog init path/to/blog/articles
 $ cd path/to/blog/articles
-    setup user
-$ blog user --email <user@gmail.com> --blogid <id of blog at blogger.com>
     make and edit article file
 $ touch article.md
     add post to local database
