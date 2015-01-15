@@ -11,7 +11,7 @@ Init project::
    $ blog init path/to/blog/articles
    $ cd path/to/blog/articles
 
-Sorry, Google changes the rule at 2014 and you have to register your
+Sorry, Google changed the rule at 2014 and you have to register your
 blog to use Blogger API.
 
 You should go to https://console.developers.google.com first and ask
