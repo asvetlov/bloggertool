@@ -1,4 +1,4 @@
-Bloger Tool
+Blogger Tool
 ===========
 
 Command line tool to communicate with blogger.com and blogspot.com.
